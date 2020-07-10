@@ -5,9 +5,9 @@
 Seminario de proyectos
 
 Miembros de equipo:
-  Reyes Garcia Cristian Jesus
-  Islas Mejia Mauricio
-  Islas Aguilar Daniel Jeffry
+# Reyes Garcia Cristian Jesus
+# Islas Mejia Mauricio
+# Islas Aguilar Daniel Jeffry
  
 #                                                                           ¡Una casa segura!
 
