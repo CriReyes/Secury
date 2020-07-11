@@ -8,6 +8,14 @@
 
 _Cerrar y asegurar todas las puertas que necesites con solo un botón por medio de un control remoto_
 
+## Objetivo
+
+_Cada año va en aumento los indices de delincuencia y los robos a casa habitación no son la excepción. De los modus operandi más comunes, se ha encontrado que mas del 80% de los robos a casa habitación son cometidos sin violencia, seguido del robo donde se escalan o brincan bardas para acceder al domicilio, en último lugar se registran los robos donde se fracturan muros para acceder a la vivienda. Un mínimo de robos a casa habitación se comete con violencia, siendo el amago la forma de operar, en todos los casos los delincuentes previamente vigilan y registran las ausencias de sus moradores, estudiando la rutina de la familia.
+Para la comisión de este delito los ladrones tienen tres factores en contra: el tiempo, el ruido y las precauciones que adopten la presunta víctima.
+Las dos primeras, por regla general, son circunstanciales, la última depende de usted. aceptar que somos vulnerables a ser víctimas de un robo, es dar un gran paso para prevenirlo.
+
+Otro es por medio de forzar cerraduras de las puertas traseras, garajes e incluso de la puerta principal en el cual este proyecto será enfocado_
+
 ## Planificación del objetivo y alcance 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
