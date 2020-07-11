@@ -1,8 +1,12 @@
 # Universidad Politecnica de Tulancingo
 
+# "Cerrojos automaticos"
+
 ## Materia: Seminario de proyectos
 
-# Cerrojos automaticos
+
+
+# Título del Proyecto
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
@@ -85,7 +89,6 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-
 * **Reyes Garcia Cristian Jesus** - *Documentación y administracion github* - [CriReyes](https://github.com/CriReyes)
 * **Islas Aguilar Daniel Jeffry** - *Logistica y materiales* - [Danielislas10](https://github.com/Danielislas10)
 * **Islas Mejia Mauricio** - *Diseño e implementación* - [Mauricio1730111](https://github.com/Mauricio1730111)
@@ -94,5 +97,8 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Universidad Politecnica de Tulancingo)
+
+
+
 
