@@ -1,18 +1,98 @@
-# Secury
+# Universidad Politecnica de Tulancingo
 
-# UNIVERSIDAD POLITECNICA DE TULANCINGO
+## Materia: Seminario de proyectos
 
-Seminario de proyectos
+# Cerrojos automaticos
 
-Miembros de equipo:
-Reyes Garcia Cristian Jesus
-Islas Mejia Mauricio
-Islas Aguilar Daniel Jeffry
- 
-#                                                                           ¡Una casa segura!
+_Acá va un párrafo que describa lo que es el proyecto_
+
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+Mira **Deployment** para conocer como desplegar el proyecto.
 
 
-El último Balance de Criminalidad correspondiente al tercer trimestre de 2018 publicado por la Secretaría de Estado de Seguridad refleja un aumento del 24,5% en el indicador «Robo con fuerza en Domicilios». Sin embargo, cabe destacar que el comportamiento al alza de este indicador se encuentra condicionado por la puesta en marcha de nuevos criterios  metodológicos de grabación y cómputo estadístico, según nota del Ministerio del Interior.
-Así pues, durante el año 2012 se han introducido procedimientos mejorados de grabación de información, especialmente en lo que respecta a la naturaleza del lugar donde se cometen las infracciones penales. Donde anteriormente se computaban en el indicador «Robo con Fuerza en Domicilios» únicamente los espacios habitables de determinadas viviendas (pisos, casas, etc.), en la actualidad se tienen en cuenta dentro de esta tipologia, además de los robos en vivienda propiamente dichos, los acaecidos en los anexos de las mismas como trasteros, garajes, etc.
+### Pre-requisitos 📋
 
-Por ello es necesario tomar ciertas medidas de seguridad, por lo cual hemos decidido la mamnera de hacer una casa mas segura añadiendo un extra en el cuidado para evitar intrusiones en tu propiedad.
+_Que cosas necesitas para instalar el software y como instalarlas_
+
+```
+Da un ejemplo
+```
+
+### Instalación 🔧
+
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
+_Dí cómo será ese paso_
+
+```
+Da un ejemplo
+```
+
+_Y repite_
+
+```
+hasta finalizar
+```
+
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
+## Ejecutando las pruebas ⚙️
+
+_Explica como ejecutar las pruebas automatizadas para este sistema_
+
+### Analice las pruebas end-to-end 🔩
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+### Y las pruebas de estilo de codificación ⌨️
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+## Despliegue 📦
+
+_Agrega notas adicionales sobre como hacer deploy_
+
+## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+
+## Contribuyendo 🖇️
+
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+
+## Versionado 📌
+
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+
+## Autores ✒️
+
+
+* **Reyes Garcia Cristian Jesus** - *Documentación y administracion github* - [CriReyes](https://github.com/CriReyes)
+* **Islas Aguilar Daniel Jeffry** - *Logistica y materiales* - [Danielislas10](https://github.com/Danielislas10)
+* **Islas Mejia Mauricio** - *Diseño e implementación* - [Mauricio1730111](https://github.com/Mauricio1730111)
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
