@@ -19,51 +19,50 @@ _Otro es por medio de forzar cerraduras de las puertas traseras, garajes e inclu
 
 _Evitar que en caso de olvidar poner seguros o cerrar las puertas ya sea de noche o cuando salimos de nuestros hogares se mantengan abiertas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Diseñar y tratar de ejecutar un cerrojo el cual sea activado con un solo botón para asi abra o cierre segun sea el caso que deseemos.
 
 
 ### Elemento de la Estimación del tiempo 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Se estima que el proyecto en su planficacion y desarrollo será lo que reste del cuatrimestre actual (mayo - septiembre)._
 
 ```
-Da un ejemplo
+Primer avance entregado (github) 07/10
 ```
 
 ### Estimación de recursos 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
+**Se estima que será necesario: ** 
 
 ```
-Da un ejemplo
+_Control remoto por radiofrecuencias_
+_Un servomotor_
+_Protoboard_
+_Cables_
+_Fuente AC_
+_Microcontrolador_
 ```
 
-_Y repite_
+**Software** 📦
 
 ```
-hasta finalizar
+Arduino
+Office
+Laptop
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
+**Nota: Se irá actualizando este apartado de ser necesario** 
 
 ## Estimación de costos ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+**Se estima que será necesario: **
 
+```
+_Gastos de_
+```
 
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+**Nota: Se irá actualizando este apartado de ser necesario** 
 
 
 ## Wiki 📖
