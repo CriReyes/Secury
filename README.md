@@ -1,12 +1,10 @@
 # Universidad Politecnica de Tulancingo
 
-# "Cerrojos automaticos"
-
 ## Materia: Seminario de proyectos
 
 
 
-# Título del Proyecto
+# Cerrojos automaticos
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
