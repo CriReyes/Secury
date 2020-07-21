@@ -42,6 +42,7 @@ _Cables_
 _Fuente AC_
 _Microcontrolador_
 ```
+**Nota: Se irá actualizando este apartado de ser necesario** 
 
 **Software** 📦
 
